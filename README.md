@@ -38,7 +38,7 @@ No build tools, package managers, or server setup needed!
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Dammieniayo/personal-task-tracker.git
    ```
 2. Navigate into the directory and open `index.html` in your favorite web browser:
    - On Windows: double-click `index.html` or run:
